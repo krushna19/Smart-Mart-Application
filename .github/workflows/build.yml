@@ -25,6 +25,9 @@ jobs:
       - name: Build
         run: mvn -B verify
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
+>>>>>>> agents/remove-failing-sonar-test
+=======
 >>>>>>> agents/remove-failing-sonar-test
