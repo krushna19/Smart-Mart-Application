@@ -24,3 +24,7 @@ jobs:
         run: mv .github/workflows/pom.xml ./pom.xml
       - name: Build
         run: mvn -B verify
+<<<<<<< HEAD
+=======
+
+>>>>>>> agents/remove-failing-sonar-test
